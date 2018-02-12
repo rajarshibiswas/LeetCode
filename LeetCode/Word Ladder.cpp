@@ -48,11 +48,8 @@ public:
                 findNextWord(cur, list, visited);
             }
             depth++;
-            
         }
-        
         return 0;
-        
     }
     
     // Find the next word while doing BFS
