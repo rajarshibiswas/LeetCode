@@ -9,6 +9,10 @@
 /* Begin PBXBuildFile section */
 		81CEB97C203137B600EF139A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB97B203137B600EF139A /* main.cpp */; };
 		81CEB9832031387A00EF139A /* Word Ladder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9822031387A00EF139A /* Word Ladder.cpp */; };
+		81CEB986203139B800EF139A /* XcodeKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81CEB985203139B800EF139A /* XcodeKit.framework */; };
+		81CEB98A203139CF00EF139A /* libgcc_s.1.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 81CEB987203139CF00EF139A /* libgcc_s.1.tbd */; };
+		81CEB98B203139CF00EF139A /* libgcc_s.10.4.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 81CEB988203139CF00EF139A /* libgcc_s.10.4.tbd */; };
+		81CEB98C203139CF00EF139A /* libgcc_s.10.5.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 81CEB989203139CF00EF139A /* libgcc_s.10.5.tbd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,7 +30,11 @@
 /* Begin PBXFileReference section */
 		81CEB978203137B600EF139A /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		81CEB97B203137B600EF139A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		81CEB9822031387A00EF139A /* Word Ladder.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Word Ladder.cpp"; sourceTree = "<group>"; };
+		81CEB9822031387A00EF139A /* Word Ladder.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; path = "Word Ladder.cpp"; sourceTree = "<group>"; };
+		81CEB985203139B800EF139A /* XcodeKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XcodeKit.framework; path = Library/Frameworks/XcodeKit.framework; sourceTree = DEVELOPER_DIR; };
+		81CEB987203139CF00EF139A /* libgcc_s.1.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libgcc_s.1.tbd; path = usr/lib/libgcc_s.1.tbd; sourceTree = SDKROOT; };
+		81CEB988203139CF00EF139A /* libgcc_s.10.4.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libgcc_s.10.4.tbd; path = usr/lib/libgcc_s.10.4.tbd; sourceTree = SDKROOT; };
+		81CEB989203139CF00EF139A /* libgcc_s.10.5.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libgcc_s.10.5.tbd; path = usr/lib/libgcc_s.10.5.tbd; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +42,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81CEB98A203139CF00EF139A /* libgcc_s.1.tbd in Frameworks */,
+				81CEB98B203139CF00EF139A /* libgcc_s.10.4.tbd in Frameworks */,
+				81CEB98C203139CF00EF139A /* libgcc_s.10.5.tbd in Frameworks */,
+				81CEB986203139B800EF139A /* XcodeKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -45,6 +57,7 @@
 			children = (
 				81CEB97A203137B600EF139A /* LeetCode */,
 				81CEB979203137B600EF139A /* Products */,
+				81CEB984203139B800EF139A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -63,6 +76,17 @@
 				81CEB97B203137B600EF139A /* main.cpp */,
 			);
 			path = LeetCode;
+			sourceTree = "<group>";
+		};
+		81CEB984203139B800EF139A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				81CEB987203139CF00EF139A /* libgcc_s.1.tbd */,
+				81CEB988203139CF00EF139A /* libgcc_s.10.4.tbd */,
+				81CEB989203139CF00EF139A /* libgcc_s.10.5.tbd */,
+				81CEB985203139B800EF139A /* XcodeKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
