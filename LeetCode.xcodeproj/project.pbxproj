@@ -13,6 +13,7 @@
 		81CEB98A203139CF00EF139A /* libgcc_s.1.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 81CEB987203139CF00EF139A /* libgcc_s.1.tbd */; };
 		81CEB98B203139CF00EF139A /* libgcc_s.10.4.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 81CEB988203139CF00EF139A /* libgcc_s.10.4.tbd */; };
 		81CEB98C203139CF00EF139A /* libgcc_s.10.5.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 81CEB989203139CF00EF139A /* libgcc_s.10.5.tbd */; };
+		81CEB98E20339EB600EF139A /* Integer to English Words.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB98D20339EB600EF139A /* Integer to English Words.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,8 @@
 		81CEB987203139CF00EF139A /* libgcc_s.1.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libgcc_s.1.tbd; path = usr/lib/libgcc_s.1.tbd; sourceTree = SDKROOT; };
 		81CEB988203139CF00EF139A /* libgcc_s.10.4.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libgcc_s.10.4.tbd; path = usr/lib/libgcc_s.10.4.tbd; sourceTree = SDKROOT; };
 		81CEB989203139CF00EF139A /* libgcc_s.10.5.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libgcc_s.10.5.tbd; path = usr/lib/libgcc_s.10.5.tbd; sourceTree = SDKROOT; };
+		81CEB98D20339EB600EF139A /* Integer to English Words.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Integer to English Words.cpp"; sourceTree = "<group>"; };
+		81CEB98F20339EE200EF139A /* common.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = common.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +77,8 @@
 			children = (
 				81CEB9822031387A00EF139A /* Word Ladder.cpp */,
 				81CEB97B203137B600EF139A /* main.cpp */,
+				81CEB98D20339EB600EF139A /* Integer to English Words.cpp */,
+				81CEB98F20339EE200EF139A /* common.h */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -146,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81CEB98E20339EB600EF139A /* Integer to English Words.cpp in Sources */,
 				81CEB9832031387A00EF139A /* Word Ladder.cpp in Sources */,
 				81CEB97C203137B600EF139A /* main.cpp in Sources */,
 			);
