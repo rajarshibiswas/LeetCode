@@ -14,6 +14,9 @@
 		81CEB98B203139CF00EF139A /* libgcc_s.10.4.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 81CEB988203139CF00EF139A /* libgcc_s.10.4.tbd */; };
 		81CEB98C203139CF00EF139A /* libgcc_s.10.5.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 81CEB989203139CF00EF139A /* libgcc_s.10.5.tbd */; };
 		81CEB98E20339EB600EF139A /* Integer to English Words.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB98D20339EB600EF139A /* Integer to English Words.cpp */; };
+		81CEB9912035093B00EF139A /* Min Cost Climbing Stairs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9902035093B00EF139A /* Min Cost Climbing Stairs.cpp */; };
+		81CEB99320350D9700EF139A /* Construct String from Binary Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB99220350D9700EF139A /* Construct String from Binary Tree.cpp */; };
+		81CEB995203513F000EF139A /* Image Smoother.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB994203513F000EF139A /* Image Smoother.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,6 +41,9 @@
 		81CEB989203139CF00EF139A /* libgcc_s.10.5.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libgcc_s.10.5.tbd; path = usr/lib/libgcc_s.10.5.tbd; sourceTree = SDKROOT; };
 		81CEB98D20339EB600EF139A /* Integer to English Words.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Integer to English Words.cpp"; sourceTree = "<group>"; };
 		81CEB98F20339EE200EF139A /* common.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = common.h; sourceTree = "<group>"; };
+		81CEB9902035093B00EF139A /* Min Cost Climbing Stairs.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Min Cost Climbing Stairs.cpp"; sourceTree = "<group>"; };
+		81CEB99220350D9700EF139A /* Construct String from Binary Tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Construct String from Binary Tree.cpp"; sourceTree = "<group>"; };
+		81CEB994203513F000EF139A /* Image Smoother.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Image Smoother.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +85,9 @@
 				81CEB97B203137B600EF139A /* main.cpp */,
 				81CEB98D20339EB600EF139A /* Integer to English Words.cpp */,
 				81CEB98F20339EE200EF139A /* common.h */,
+				81CEB9902035093B00EF139A /* Min Cost Climbing Stairs.cpp */,
+				81CEB99220350D9700EF139A /* Construct String from Binary Tree.cpp */,
+				81CEB994203513F000EF139A /* Image Smoother.cpp */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -152,8 +161,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				81CEB98E20339EB600EF139A /* Integer to English Words.cpp in Sources */,
+				81CEB9912035093B00EF139A /* Min Cost Climbing Stairs.cpp in Sources */,
 				81CEB9832031387A00EF139A /* Word Ladder.cpp in Sources */,
+				81CEB995203513F000EF139A /* Image Smoother.cpp in Sources */,
 				81CEB97C203137B600EF139A /* main.cpp in Sources */,
+				81CEB99320350D9700EF139A /* Construct String from Binary Tree.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
