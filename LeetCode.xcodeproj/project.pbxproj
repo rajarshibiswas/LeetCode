@@ -19,6 +19,8 @@
 		81CEB995203513F000EF139A /* Image Smoother.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB994203513F000EF139A /* Image Smoother.cpp */; };
 		81CEB9972035406B00EF139A /* Serialize and Deserialize BST.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9962035406B00EF139A /* Serialize and Deserialize BST.cpp */; };
 		81CEB9992035CEDB00EF139A /* Boundary of Binary Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9982035CEDB00EF139A /* Boundary of Binary Tree.cpp */; };
+		81CEB99B2035D58A00EF139A /* Split Linked List in Parts.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB99A2035D58A00EF139A /* Split Linked List in Parts.cpp */; };
+		81CEB99D2036512F00EF139A /* Most Frequent Subtree Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB99C2036512F00EF139A /* Most Frequent Subtree Sum.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -48,6 +50,8 @@
 		81CEB994203513F000EF139A /* Image Smoother.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Image Smoother.cpp"; sourceTree = "<group>"; };
 		81CEB9962035406B00EF139A /* Serialize and Deserialize BST.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Serialize and Deserialize BST.cpp"; sourceTree = "<group>"; };
 		81CEB9982035CEDB00EF139A /* Boundary of Binary Tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Boundary of Binary Tree.cpp"; sourceTree = "<group>"; };
+		81CEB99A2035D58A00EF139A /* Split Linked List in Parts.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Split Linked List in Parts.cpp"; sourceTree = "<group>"; };
+		81CEB99C2036512F00EF139A /* Most Frequent Subtree Sum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Most Frequent Subtree Sum.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +98,8 @@
 				81CEB994203513F000EF139A /* Image Smoother.cpp */,
 				81CEB9962035406B00EF139A /* Serialize and Deserialize BST.cpp */,
 				81CEB9982035CEDB00EF139A /* Boundary of Binary Tree.cpp */,
+				81CEB99A2035D58A00EF139A /* Split Linked List in Parts.cpp */,
+				81CEB99C2036512F00EF139A /* Most Frequent Subtree Sum.cpp */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -170,10 +176,12 @@
 				81CEB9912035093B00EF139A /* Min Cost Climbing Stairs.cpp in Sources */,
 				81CEB9992035CEDB00EF139A /* Boundary of Binary Tree.cpp in Sources */,
 				81CEB9832031387A00EF139A /* Word Ladder.cpp in Sources */,
+				81CEB99D2036512F00EF139A /* Most Frequent Subtree Sum.cpp in Sources */,
 				81CEB9972035406B00EF139A /* Serialize and Deserialize BST.cpp in Sources */,
 				81CEB995203513F000EF139A /* Image Smoother.cpp in Sources */,
 				81CEB97C203137B600EF139A /* main.cpp in Sources */,
 				81CEB99320350D9700EF139A /* Construct String from Binary Tree.cpp in Sources */,
+				81CEB99B2035D58A00EF139A /* Split Linked List in Parts.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
