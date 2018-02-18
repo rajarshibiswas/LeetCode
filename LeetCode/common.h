@@ -16,7 +16,16 @@
 #include <unordered_set>
 #include <queue>
 #include <stack>
+#include <set>
+#include <unordered_set>
 
 using namespace std;
+
+struct TreeNode {
+    int val;
+    TreeNode *left;
+    TreeNode *right;
+    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+};
 
 #endif /* common_h */
