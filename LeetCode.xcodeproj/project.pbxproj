@@ -23,6 +23,7 @@
 		81CEB99D2036512F00EF139A /* Most Frequent Subtree Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB99C2036512F00EF139A /* Most Frequent Subtree Sum.cpp */; };
 		81CEB99F20367CCA00EF139A /* Equal Tree Partition.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB99E20367CCA00EF139A /* Equal Tree Partition.cpp */; };
 		81CEB9A12039DBD300EF139A /* Number of Distinct Islands.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9A02039DBD300EF139A /* Number of Distinct Islands.cpp */; };
+		81CEB9A3203A7BB500EF139A /* Construct Binary Tree from String.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9A2203A7BB500EF139A /* Construct Binary Tree from String.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -56,6 +57,7 @@
 		81CEB99C2036512F00EF139A /* Most Frequent Subtree Sum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Most Frequent Subtree Sum.cpp"; sourceTree = "<group>"; };
 		81CEB99E20367CCA00EF139A /* Equal Tree Partition.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Equal Tree Partition.cpp"; sourceTree = "<group>"; };
 		81CEB9A02039DBD300EF139A /* Number of Distinct Islands.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Number of Distinct Islands.cpp"; sourceTree = "<group>"; };
+		81CEB9A2203A7BB500EF139A /* Construct Binary Tree from String.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Construct Binary Tree from String.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				81CEB9962035406B00EF139A /* Serialize and Deserialize BST.cpp */,
 				81CEB9982035CEDB00EF139A /* Boundary of Binary Tree.cpp */,
 				81CEB99A2035D58A00EF139A /* Split Linked List in Parts.cpp */,
+				81CEB9A2203A7BB500EF139A /* Construct Binary Tree from String.cpp */,
 				81CEB99C2036512F00EF139A /* Most Frequent Subtree Sum.cpp */,
 				81CEB9A02039DBD300EF139A /* Number of Distinct Islands.cpp */,
 				81CEB99E20367CCA00EF139A /* Equal Tree Partition.cpp */,
@@ -178,6 +181,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81CEB9A3203A7BB500EF139A /* Construct Binary Tree from String.cpp in Sources */,
 				81CEB98E20339EB600EF139A /* Integer to English Words.cpp in Sources */,
 				81CEB9912035093B00EF139A /* Min Cost Climbing Stairs.cpp in Sources */,
 				81CEB99F20367CCA00EF139A /* Equal Tree Partition.cpp in Sources */,
