@@ -25,6 +25,8 @@
 		81CEB9A12039DBD300EF139A /* Number of Distinct Islands.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9A02039DBD300EF139A /* Number of Distinct Islands.cpp */; };
 		81CEB9A3203A7BB500EF139A /* Construct Binary Tree from String.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9A2203A7BB500EF139A /* Construct Binary Tree from String.cpp */; };
 		81CEB9A5203BCCE500EF139A /* Pascal's Triangle II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9A4203BCCE500EF139A /* Pascal's Triangle II.cpp */; };
+		81CEB9A7203BDFF800EF139A /* Monotone Increasing Digits.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9A6203BDFF800EF139A /* Monotone Increasing Digits.cpp */; };
+		81CEB9A9203C69F100EF139A /* Insert Delete GetRandom.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9A8203C69F100EF139A /* Insert Delete GetRandom.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -60,6 +62,8 @@
 		81CEB9A02039DBD300EF139A /* Number of Distinct Islands.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Number of Distinct Islands.cpp"; sourceTree = "<group>"; };
 		81CEB9A2203A7BB500EF139A /* Construct Binary Tree from String.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Construct Binary Tree from String.cpp"; sourceTree = "<group>"; };
 		81CEB9A4203BCCE500EF139A /* Pascal's Triangle II.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Pascal's Triangle II.cpp"; sourceTree = "<group>"; };
+		81CEB9A6203BDFF800EF139A /* Monotone Increasing Digits.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Monotone Increasing Digits.cpp"; sourceTree = "<group>"; };
+		81CEB9A8203C69F100EF139A /* Insert Delete GetRandom.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Insert Delete GetRandom.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +113,8 @@
 				81CEB99A2035D58A00EF139A /* Split Linked List in Parts.cpp */,
 				81CEB9A2203A7BB500EF139A /* Construct Binary Tree from String.cpp */,
 				81CEB9A4203BCCE500EF139A /* Pascal's Triangle II.cpp */,
+				81CEB9A6203BDFF800EF139A /* Monotone Increasing Digits.cpp */,
+				81CEB9A8203C69F100EF139A /* Insert Delete GetRandom.cpp */,
 				81CEB99C2036512F00EF139A /* Most Frequent Subtree Sum.cpp */,
 				81CEB9A02039DBD300EF139A /* Number of Distinct Islands.cpp */,
 				81CEB99E20367CCA00EF139A /* Equal Tree Partition.cpp */,
@@ -189,6 +195,7 @@
 				81CEB98E20339EB600EF139A /* Integer to English Words.cpp in Sources */,
 				81CEB9912035093B00EF139A /* Min Cost Climbing Stairs.cpp in Sources */,
 				81CEB99F20367CCA00EF139A /* Equal Tree Partition.cpp in Sources */,
+				81CEB9A9203C69F100EF139A /* Insert Delete GetRandom.cpp in Sources */,
 				81CEB9992035CEDB00EF139A /* Boundary of Binary Tree.cpp in Sources */,
 				81CEB9832031387A00EF139A /* Word Ladder.cpp in Sources */,
 				81CEB99D2036512F00EF139A /* Most Frequent Subtree Sum.cpp in Sources */,
@@ -198,6 +205,7 @@
 				81CEB9A12039DBD300EF139A /* Number of Distinct Islands.cpp in Sources */,
 				81CEB99320350D9700EF139A /* Construct String from Binary Tree.cpp in Sources */,
 				81CEB99B2035D58A00EF139A /* Split Linked List in Parts.cpp in Sources */,
+				81CEB9A7203BDFF800EF139A /* Monotone Increasing Digits.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
