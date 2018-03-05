@@ -39,6 +39,7 @@
 		81E84ABD204CEA67008B3A32 /* Copy List with Random Pointer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84ABC204CEA67008B3A32 /* Copy List with Random Pointer.cpp */; };
 		81E84ABF204CEB16008B3A32 /* Lowest Common Ancestor of a Binary Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84ABE204CEB16008B3A32 /* Lowest Common Ancestor of a Binary Tree.cpp */; };
 		81E84AC1204CEBBE008B3A32 /* Longest Palindromic Substring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AC0204CEBBE008B3A32 /* Longest Palindromic Substring.cpp */; };
+		81E84AC3204CED11008B3A32 /* Best Time to Buy and Sell StocK.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AC2204CED11008B3A32 /* Best Time to Buy and Sell StocK.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -88,6 +89,7 @@
 		81E84ABC204CEA67008B3A32 /* Copy List with Random Pointer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Copy List with Random Pointer.cpp"; sourceTree = "<group>"; };
 		81E84ABE204CEB16008B3A32 /* Lowest Common Ancestor of a Binary Tree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Lowest Common Ancestor of a Binary Tree.cpp"; sourceTree = "<group>"; };
 		81E84AC0204CEBBE008B3A32 /* Longest Palindromic Substring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Longest Palindromic Substring.cpp"; sourceTree = "<group>"; };
+		81E84AC2204CED11008B3A32 /* Best Time to Buy and Sell StocK.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Best Time to Buy and Sell StocK.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 				81E84ABC204CEA67008B3A32 /* Copy List with Random Pointer.cpp */,
 				81E84ABE204CEB16008B3A32 /* Lowest Common Ancestor of a Binary Tree.cpp */,
 				81E84AC0204CEBBE008B3A32 /* Longest Palindromic Substring.cpp */,
+				81E84AC2204CED11008B3A32 /* Best Time to Buy and Sell StocK.cpp */,
 				81CEB99E20367CCA00EF139A /* Equal Tree Partition.cpp */,
 				81CEB994203513F000EF139A /* Image Smoother.cpp */,
 				81CEB9A8203C69F100EF139A /* Insert Delete GetRandom.cpp */,
@@ -236,6 +239,7 @@
 				81CEB99F20367CCA00EF139A /* Equal Tree Partition.cpp in Sources */,
 				81CEB9A9203C69F100EF139A /* Insert Delete GetRandom.cpp in Sources */,
 				81E84AB1204CD54F008B3A32 /* Two Sum.cpp in Sources */,
+				81E84AC3204CED11008B3A32 /* Best Time to Buy and Sell StocK.cpp in Sources */,
 				81CEB9992035CEDB00EF139A /* Boundary of Binary Tree.cpp in Sources */,
 				81CEB9832031387A00EF139A /* Word Ladder.cpp in Sources */,
 				81E84AB9204CDAB4008B3A32 /* Rotate Image.cpp in Sources */,
