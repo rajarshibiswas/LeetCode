@@ -19,6 +19,8 @@
 #include <set>
 #include <unordered_set>
 #include <deque>
+#include <list>
+#include <pair>
 
 using namespace std;
 
