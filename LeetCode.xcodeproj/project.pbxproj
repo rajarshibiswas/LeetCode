@@ -29,6 +29,7 @@
 		81CEB9A9203C69F100EF139A /* Insert Delete GetRandom.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9A8203C69F100EF139A /* Insert Delete GetRandom.cpp */; };
 		81CEB9AB203C81E700EF139A /* Sliding Window.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9AA203C81E700EF139A /* Sliding Window.cpp */; };
 		81CEB9AD203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9AC203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp */; };
+		81E84AAF204CD1B0008B3A32 /* Partition Labels.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AAE204CD1B0008B3A32 /* Partition Labels.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -68,6 +69,7 @@
 		81CEB9A8203C69F100EF139A /* Insert Delete GetRandom.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Insert Delete GetRandom.cpp"; sourceTree = "<group>"; };
 		81CEB9AA203C81E700EF139A /* Sliding Window.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Sliding Window.cpp"; sourceTree = "<group>"; };
 		81CEB9AC203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Cut Off Trees for Golf Event.cpp"; sourceTree = "<group>"; };
+		81E84AAE204CD1B0008B3A32 /* Partition Labels.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Partition Labels.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 		81CEB97A203137B600EF139A /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				81E84AAE204CD1B0008B3A32 /* Partition Labels.cpp */,
 				81CEB9822031387A00EF139A /* Word Ladder.cpp */,
 				81CEB97B203137B600EF139A /* main.cpp */,
 				81CEB98D20339EB600EF139A /* Integer to English Words.cpp */,
@@ -213,6 +216,7 @@
 				81CEB9AD203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp in Sources */,
 				81CEB99320350D9700EF139A /* Construct String from Binary Tree.cpp in Sources */,
 				81CEB99B2035D58A00EF139A /* Split Linked List in Parts.cpp in Sources */,
+				81E84AAF204CD1B0008B3A32 /* Partition Labels.cpp in Sources */,
 				81CEB9A7203BDFF800EF139A /* Monotone Increasing Digits.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -342,6 +346,7 @@
 				81CEB981203137B600EF139A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
