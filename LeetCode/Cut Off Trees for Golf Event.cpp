@@ -59,11 +59,13 @@ public:
                 }
             }
         }
-        
+        // Sort the tree heights
         sort(tree.begin(), tree.end(), [](const pair<pair<int,int>,int> &a,
                                           const pair<pair<int,int>,int> &b) -> bool {
             return a.second < b.second;
         });
+        
+        // Starting 0,0 try to reach all the tree positions using bfs
         int sr = 0, sc = 0;
         for (auto a: tree) {
             int path = bfs(forest, sr, sc, a.first.first, a.first.second);
