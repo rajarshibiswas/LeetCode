@@ -30,6 +30,8 @@
 		81CEB9AB203C81E700EF139A /* Sliding Window.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9AA203C81E700EF139A /* Sliding Window.cpp */; };
 		81CEB9AD203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9AC203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp */; };
 		81E84AAF204CD1B0008B3A32 /* Partition Labels.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AAE204CD1B0008B3A32 /* Partition Labels.cpp */; };
+		81E84AB1204CD54F008B3A32 /* Two Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AB0204CD54F008B3A32 /* Two Sum.cpp */; };
+		81E84AB3204CD647008B3A32 /* Valid Parentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AB2204CD647008B3A32 /* Valid Parentheses.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -70,6 +72,8 @@
 		81CEB9AA203C81E700EF139A /* Sliding Window.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Sliding Window.cpp"; sourceTree = "<group>"; };
 		81CEB9AC203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Cut Off Trees for Golf Event.cpp"; sourceTree = "<group>"; };
 		81E84AAE204CD1B0008B3A32 /* Partition Labels.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Partition Labels.cpp"; sourceTree = "<group>"; };
+		81E84AB0204CD54F008B3A32 /* Two Sum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Two Sum.cpp"; sourceTree = "<group>"; };
+		81E84AB2204CD647008B3A32 /* Valid Parentheses.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Valid Parentheses.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +111,8 @@
 		81CEB97A203137B600EF139A /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				81E84AB2204CD647008B3A32 /* Valid Parentheses.cpp */,
+				81E84AB0204CD54F008B3A32 /* Two Sum.cpp */,
 				81E84AAE204CD1B0008B3A32 /* Partition Labels.cpp */,
 				81CEB9822031387A00EF139A /* Word Ladder.cpp */,
 				81CEB97B203137B600EF139A /* main.cpp */,
@@ -199,6 +205,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81E84AB3204CD647008B3A32 /* Valid Parentheses.cpp in Sources */,
 				81CEB9A3203A7BB500EF139A /* Construct Binary Tree from String.cpp in Sources */,
 				81CEB9A5203BCCE500EF139A /* Pascal's Triangle II.cpp in Sources */,
 				81CEB9AB203C81E700EF139A /* Sliding Window.cpp in Sources */,
@@ -206,6 +213,7 @@
 				81CEB9912035093B00EF139A /* Min Cost Climbing Stairs.cpp in Sources */,
 				81CEB99F20367CCA00EF139A /* Equal Tree Partition.cpp in Sources */,
 				81CEB9A9203C69F100EF139A /* Insert Delete GetRandom.cpp in Sources */,
+				81E84AB1204CD54F008B3A32 /* Two Sum.cpp in Sources */,
 				81CEB9992035CEDB00EF139A /* Boundary of Binary Tree.cpp in Sources */,
 				81CEB9832031387A00EF139A /* Word Ladder.cpp in Sources */,
 				81CEB99D2036512F00EF139A /* Most Frequent Subtree Sum.cpp in Sources */,
