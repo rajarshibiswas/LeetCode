@@ -34,6 +34,9 @@
 		81E84AB3204CD647008B3A32 /* Valid Parentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AB2204CD647008B3A32 /* Valid Parentheses.cpp */; };
 		81E84AB5204CD6AE008B3A32 /* Number of Islands.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AB4204CD6AE008B3A32 /* Number of Islands.cpp */; };
 		81E84AB7204CD7E2008B3A32 /* LRU Cache.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AB6204CD7E2008B3A32 /* LRU Cache.cpp */; };
+		81E84AB9204CDAB4008B3A32 /* Rotate Image.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AB8204CDAB4008B3A32 /* Rotate Image.cpp */; };
+		81E84ABB204CE9C5008B3A32 /* Find All Anagrams in a String.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84ABA204CE9C5008B3A32 /* Find All Anagrams in a String.cpp */; };
+		81E84ABD204CEA67008B3A32 /* Copy List with Random Pointer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84ABC204CEA67008B3A32 /* Copy List with Random Pointer.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -78,6 +81,9 @@
 		81E84AB2204CD647008B3A32 /* Valid Parentheses.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Valid Parentheses.cpp"; sourceTree = "<group>"; };
 		81E84AB4204CD6AE008B3A32 /* Number of Islands.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Number of Islands.cpp"; sourceTree = "<group>"; };
 		81E84AB6204CD7E2008B3A32 /* LRU Cache.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "LRU Cache.cpp"; sourceTree = "<group>"; };
+		81E84AB8204CDAB4008B3A32 /* Rotate Image.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Rotate Image.cpp"; sourceTree = "<group>"; };
+		81E84ABA204CE9C5008B3A32 /* Find All Anagrams in a String.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Find All Anagrams in a String.cpp"; sourceTree = "<group>"; };
+		81E84ABC204CEA67008B3A32 /* Copy List with Random Pointer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Copy List with Random Pointer.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +126,9 @@
 				81CEB9A2203A7BB500EF139A /* Construct Binary Tree from String.cpp */,
 				81CEB99220350D9700EF139A /* Construct String from Binary Tree.cpp */,
 				81CEB9AC203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp */,
+				81E84AB8204CDAB4008B3A32 /* Rotate Image.cpp */,
+				81E84ABA204CE9C5008B3A32 /* Find All Anagrams in a String.cpp */,
+				81E84ABC204CEA67008B3A32 /* Copy List with Random Pointer.cpp */,
 				81CEB99E20367CCA00EF139A /* Equal Tree Partition.cpp */,
 				81CEB994203513F000EF139A /* Image Smoother.cpp */,
 				81CEB9A8203C69F100EF139A /* Insert Delete GetRandom.cpp */,
@@ -222,13 +231,16 @@
 				81E84AB1204CD54F008B3A32 /* Two Sum.cpp in Sources */,
 				81CEB9992035CEDB00EF139A /* Boundary of Binary Tree.cpp in Sources */,
 				81CEB9832031387A00EF139A /* Word Ladder.cpp in Sources */,
+				81E84AB9204CDAB4008B3A32 /* Rotate Image.cpp in Sources */,
 				81CEB99D2036512F00EF139A /* Most Frequent Subtree Sum.cpp in Sources */,
+				81E84ABD204CEA67008B3A32 /* Copy List with Random Pointer.cpp in Sources */,
 				81CEB9972035406B00EF139A /* Serialize and Deserialize BST.cpp in Sources */,
 				81CEB995203513F000EF139A /* Image Smoother.cpp in Sources */,
 				81CEB97C203137B600EF139A /* main.cpp in Sources */,
 				81CEB9A12039DBD300EF139A /* Number of Distinct Islands.cpp in Sources */,
 				81E84AB5204CD6AE008B3A32 /* Number of Islands.cpp in Sources */,
 				81E84AB7204CD7E2008B3A32 /* LRU Cache.cpp in Sources */,
+				81E84ABB204CE9C5008B3A32 /* Find All Anagrams in a String.cpp in Sources */,
 				81CEB9AD203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp in Sources */,
 				81CEB99320350D9700EF139A /* Construct String from Binary Tree.cpp in Sources */,
 				81CEB99B2035D58A00EF139A /* Split Linked List in Parts.cpp in Sources */,

@@ -31,4 +31,10 @@ struct TreeNode {
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
+struct RandomListNode {
+         int label;
+         RandomListNode *next, *random;
+         RandomListNode(int x) : label(x), next(NULL), random(NULL) {}
+}
+
 #endif /* common_h */
