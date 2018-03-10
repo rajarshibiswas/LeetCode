@@ -32,6 +32,8 @@
 		81D9FD6420543DCF00D55CA9 /* Two Sum II - Input array is sorted.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81D9FD6320543DCF00D55CA9 /* Two Sum II - Input array is sorted.cpp */; };
 		81D9FD66205441C600D55CA9 /* Subsets.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81D9FD65205441C600D55CA9 /* Subsets.cpp */; };
 		81D9FD682054474100D55CA9 /* Binary Tree Right Side View.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81D9FD672054474100D55CA9 /* Binary Tree Right Side View.cpp */; };
+		81D9FD6A2054515400D55CA9 /* Merge k Sorted Lists.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81D9FD692054515400D55CA9 /* Merge k Sorted Lists.cpp */; };
+		81D9FD6C2054585B00D55CA9 /* String to Integer (atoi).cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81D9FD6B2054585B00D55CA9 /* String to Integer (atoi).cpp */; };
 		81E84AAF204CD1B0008B3A32 /* Partition Labels.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AAE204CD1B0008B3A32 /* Partition Labels.cpp */; };
 		81E84AB1204CD54F008B3A32 /* Two Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AB0204CD54F008B3A32 /* Two Sum.cpp */; };
 		81E84AB3204CD647008B3A32 /* Valid Parentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AB2204CD647008B3A32 /* Valid Parentheses.cpp */; };
@@ -85,6 +87,8 @@
 		81D9FD6320543DCF00D55CA9 /* Two Sum II - Input array is sorted.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Two Sum II - Input array is sorted.cpp"; sourceTree = "<group>"; };
 		81D9FD65205441C600D55CA9 /* Subsets.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Subsets.cpp; sourceTree = "<group>"; };
 		81D9FD672054474100D55CA9 /* Binary Tree Right Side View.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Binary Tree Right Side View.cpp"; sourceTree = "<group>"; };
+		81D9FD692054515400D55CA9 /* Merge k Sorted Lists.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Merge k Sorted Lists.cpp"; sourceTree = "<group>"; };
+		81D9FD6B2054585B00D55CA9 /* String to Integer (atoi).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "String to Integer (atoi).cpp"; sourceTree = "<group>"; };
 		81E84AAE204CD1B0008B3A32 /* Partition Labels.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Partition Labels.cpp"; sourceTree = "<group>"; };
 		81E84AB0204CD54F008B3A32 /* Two Sum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Two Sum.cpp"; sourceTree = "<group>"; };
 		81E84AB2204CD647008B3A32 /* Valid Parentheses.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Valid Parentheses.cpp"; sourceTree = "<group>"; };
@@ -133,36 +137,38 @@
 		81CEB97A203137B600EF139A /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				81E84AC2204CED11008B3A32 /* Best Time to Buy and Sell StocK.cpp */,
+				81D9FD672054474100D55CA9 /* Binary Tree Right Side View.cpp */,
 				81CEB9982035CEDB00EF139A /* Boundary of Binary Tree.cpp */,
 				81CEB98F20339EE200EF139A /* common.h */,
 				81CEB9A2203A7BB500EF139A /* Construct Binary Tree from String.cpp */,
 				81CEB99220350D9700EF139A /* Construct String from Binary Tree.cpp */,
-				81CEB9AC203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp */,
-				81E84AB8204CDAB4008B3A32 /* Rotate Image.cpp */,
-				81E84ABA204CE9C5008B3A32 /* Find All Anagrams in a String.cpp */,
 				81E84ABC204CEA67008B3A32 /* Copy List with Random Pointer.cpp */,
-				81E84ABE204CEB16008B3A32 /* Lowest Common Ancestor of a Binary Tree.cpp */,
-				81E84AC0204CEBBE008B3A32 /* Longest Palindromic Substring.cpp */,
-				81E84AC2204CED11008B3A32 /* Best Time to Buy and Sell StocK.cpp */,
-				81D9FD6320543DCF00D55CA9 /* Two Sum II - Input array is sorted.cpp */,
-				81D9FD65205441C600D55CA9 /* Subsets.cpp */,
-				81D9FD672054474100D55CA9 /* Binary Tree Right Side View.cpp */,
+				81CEB9AC203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp */,
 				81CEB99E20367CCA00EF139A /* Equal Tree Partition.cpp */,
+				81E84ABA204CE9C5008B3A32 /* Find All Anagrams in a String.cpp */,
 				81CEB994203513F000EF139A /* Image Smoother.cpp */,
 				81CEB9A8203C69F100EF139A /* Insert Delete GetRandom.cpp */,
 				81CEB98D20339EB600EF139A /* Integer to English Words.cpp */,
+				81E84AC0204CEBBE008B3A32 /* Longest Palindromic Substring.cpp */,
+				81E84ABE204CEB16008B3A32 /* Lowest Common Ancestor of a Binary Tree.cpp */,
+				81E84AB6204CD7E2008B3A32 /* LRU Cache.cpp */,
 				81CEB97B203137B600EF139A /* main.cpp */,
+				81D9FD692054515400D55CA9 /* Merge k Sorted Lists.cpp */,
 				81CEB9902035093B00EF139A /* Min Cost Climbing Stairs.cpp */,
 				81CEB9A6203BDFF800EF139A /* Monotone Increasing Digits.cpp */,
 				81CEB99C2036512F00EF139A /* Most Frequent Subtree Sum.cpp */,
 				81CEB9A02039DBD300EF139A /* Number of Distinct Islands.cpp */,
 				81E84AB4204CD6AE008B3A32 /* Number of Islands.cpp */,
-				81E84AB6204CD7E2008B3A32 /* LRU Cache.cpp */,
+				81D9FD6B2054585B00D55CA9 /* String to Integer (atoi).cpp */,
 				81E84AAE204CD1B0008B3A32 /* Partition Labels.cpp */,
 				81CEB9A4203BCCE500EF139A /* Pascal's Triangle II.cpp */,
+				81E84AB8204CDAB4008B3A32 /* Rotate Image.cpp */,
 				81CEB9962035406B00EF139A /* Serialize and Deserialize BST.cpp */,
 				81CEB9AA203C81E700EF139A /* Sliding Window.cpp */,
 				81CEB99A2035D58A00EF139A /* Split Linked List in Parts.cpp */,
+				81D9FD65205441C600D55CA9 /* Subsets.cpp */,
+				81D9FD6320543DCF00D55CA9 /* Two Sum II - Input array is sorted.cpp */,
 				81E84AB0204CD54F008B3A32 /* Two Sum.cpp */,
 				81E84AB2204CD647008B3A32 /* Valid Parentheses.cpp */,
 				81CEB9822031387A00EF139A /* Word Ladder.cpp */,
@@ -258,6 +264,7 @@
 				81E84ABD204CEA67008B3A32 /* Copy List with Random Pointer.cpp in Sources */,
 				81CEB9972035406B00EF139A /* Serialize and Deserialize BST.cpp in Sources */,
 				81CEB995203513F000EF139A /* Image Smoother.cpp in Sources */,
+				81D9FD6A2054515400D55CA9 /* Merge k Sorted Lists.cpp in Sources */,
 				81CEB97C203137B600EF139A /* main.cpp in Sources */,
 				81CEB9A12039DBD300EF139A /* Number of Distinct Islands.cpp in Sources */,
 				81E84AB5204CD6AE008B3A32 /* Number of Islands.cpp in Sources */,
@@ -270,6 +277,7 @@
 				81E84AAF204CD1B0008B3A32 /* Partition Labels.cpp in Sources */,
 				81CEB9A7203BDFF800EF139A /* Monotone Increasing Digits.cpp in Sources */,
 				81E84AC1204CEBBE008B3A32 /* Longest Palindromic Substring.cpp in Sources */,
+				81D9FD6C2054585B00D55CA9 /* String to Integer (atoi).cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -20,7 +20,7 @@
 #include <unordered_set>
 #include <deque>
 #include <list>
-#include <pair>
+//#include <pair>
 
 using namespace std;
 
@@ -37,4 +37,10 @@ struct RandomListNode {
          RandomListNode(int x) : label(x), next(NULL), random(NULL) {}
 }
 
+//Definition for singly-linked list.
+struct ListNode {
+         int val;
+         ListNode *next;
+         ListNode(int x) : val(x), next(NULL) {}
+};
 #endif /* common_h */
