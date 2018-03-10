@@ -29,6 +29,8 @@
 		81CEB9A9203C69F100EF139A /* Insert Delete GetRandom.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9A8203C69F100EF139A /* Insert Delete GetRandom.cpp */; };
 		81CEB9AB203C81E700EF139A /* Sliding Window.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9AA203C81E700EF139A /* Sliding Window.cpp */; };
 		81CEB9AD203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81CEB9AC203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp */; };
+		81D9FD6420543DCF00D55CA9 /* Two Sum II - Input array is sorted.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81D9FD6320543DCF00D55CA9 /* Two Sum II - Input array is sorted.cpp */; };
+		81D9FD66205441C600D55CA9 /* Subsets.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81D9FD65205441C600D55CA9 /* Subsets.cpp */; };
 		81E84AAF204CD1B0008B3A32 /* Partition Labels.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AAE204CD1B0008B3A32 /* Partition Labels.cpp */; };
 		81E84AB1204CD54F008B3A32 /* Two Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AB0204CD54F008B3A32 /* Two Sum.cpp */; };
 		81E84AB3204CD647008B3A32 /* Valid Parentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 81E84AB2204CD647008B3A32 /* Valid Parentheses.cpp */; };
@@ -79,6 +81,8 @@
 		81CEB9A8203C69F100EF139A /* Insert Delete GetRandom.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Insert Delete GetRandom.cpp"; sourceTree = "<group>"; };
 		81CEB9AA203C81E700EF139A /* Sliding Window.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Sliding Window.cpp"; sourceTree = "<group>"; };
 		81CEB9AC203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Cut Off Trees for Golf Event.cpp"; sourceTree = "<group>"; };
+		81D9FD6320543DCF00D55CA9 /* Two Sum II - Input array is sorted.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Two Sum II - Input array is sorted.cpp"; sourceTree = "<group>"; };
+		81D9FD65205441C600D55CA9 /* Subsets.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Subsets.cpp; sourceTree = "<group>"; };
 		81E84AAE204CD1B0008B3A32 /* Partition Labels.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Partition Labels.cpp"; sourceTree = "<group>"; };
 		81E84AB0204CD54F008B3A32 /* Two Sum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Two Sum.cpp"; sourceTree = "<group>"; };
 		81E84AB2204CD647008B3A32 /* Valid Parentheses.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Valid Parentheses.cpp"; sourceTree = "<group>"; };
@@ -138,6 +142,8 @@
 				81E84ABE204CEB16008B3A32 /* Lowest Common Ancestor of a Binary Tree.cpp */,
 				81E84AC0204CEBBE008B3A32 /* Longest Palindromic Substring.cpp */,
 				81E84AC2204CED11008B3A32 /* Best Time to Buy and Sell StocK.cpp */,
+				81D9FD6320543DCF00D55CA9 /* Two Sum II - Input array is sorted.cpp */,
+				81D9FD65205441C600D55CA9 /* Subsets.cpp */,
 				81CEB99E20367CCA00EF139A /* Equal Tree Partition.cpp */,
 				81CEB994203513F000EF139A /* Image Smoother.cpp */,
 				81CEB9A8203C69F100EF139A /* Insert Delete GetRandom.cpp */,
@@ -234,6 +240,7 @@
 				81CEB9A5203BCCE500EF139A /* Pascal's Triangle II.cpp in Sources */,
 				81CEB9AB203C81E700EF139A /* Sliding Window.cpp in Sources */,
 				81E84ABF204CEB16008B3A32 /* Lowest Common Ancestor of a Binary Tree.cpp in Sources */,
+				81D9FD66205441C600D55CA9 /* Subsets.cpp in Sources */,
 				81CEB98E20339EB600EF139A /* Integer to English Words.cpp in Sources */,
 				81CEB9912035093B00EF139A /* Min Cost Climbing Stairs.cpp in Sources */,
 				81CEB99F20367CCA00EF139A /* Equal Tree Partition.cpp in Sources */,
@@ -250,6 +257,7 @@
 				81CEB97C203137B600EF139A /* main.cpp in Sources */,
 				81CEB9A12039DBD300EF139A /* Number of Distinct Islands.cpp in Sources */,
 				81E84AB5204CD6AE008B3A32 /* Number of Islands.cpp in Sources */,
+				81D9FD6420543DCF00D55CA9 /* Two Sum II - Input array is sorted.cpp in Sources */,
 				81E84AB7204CD7E2008B3A32 /* LRU Cache.cpp in Sources */,
 				81E84ABB204CE9C5008B3A32 /* Find All Anagrams in a String.cpp in Sources */,
 				81CEB9AD203C8CE200EF139A /* Cut Off Trees for Golf Event.cpp in Sources */,
